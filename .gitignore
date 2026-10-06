@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+_cargas/
+_logs/
+skp_*/
+tmp*/
+pruebas/*
+!pruebas/.gitkeep
+*.skp
+*.rvt
+*.dwg
+sesion*.json
+levantamiento_skp.*
+node_modules/
+.env
+.venv/

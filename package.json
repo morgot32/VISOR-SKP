@@ -1,0 +1,9 @@
+{
+  "name": "odr-visor-skp",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node --check app.js && node test_dimensions.mjs && node test_exports.mjs && node test_selection.mjs"
+  }
+}
